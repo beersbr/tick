@@ -1,0 +1,1828 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"subsc",
+				"subscriber"
+			],
+			[
+				"preflight_",
+				"preflight_authentication"
+			],
+			[
+				"NOtificationDe",
+				"NotificationDeliveryMethod"
+			],
+			[
+				"NOtificationD",
+				"NotificationDeliveryMethod"
+			],
+			[
+				"current",
+				"current_delivery_method"
+			],
+			[
+				"user",
+				"user_should_get_notification"
+			],
+			[
+				"requeu",
+				"requeue_method"
+			],
+			[
+				"requ",
+				"requeue_method"
+			],
+			[
+				"getProc",
+				"getProcessInstanceVariable"
+			],
+			[
+				"Ch",
+				"CheckForCoinCollision"
+			],
+			[
+				"Check",
+				"CheckForSelfCollision"
+			],
+			[
+				"CheckFor",
+				"CheckForWallCollision"
+			],
+			[
+				"AWSUserS",
+				"AWSUserStorageFile"
+			],
+			[
+				"S3BotoStora",
+				"S3BotoStorageFile"
+			],
+			[
+				"AWS_C",
+				"AWS_SECRET_KEY"
+			],
+			[
+				"AWS_",
+				"AWS_ACCESS_KEY"
+			],
+			[
+				"activi",
+				"activiti_workflow_result"
+			],
+			[
+				"media_id",
+				"media_id_variable"
+			],
+			[
+				"get",
+				"getProcessInstanceVariable"
+			],
+			[
+				"finished",
+				"finished_notify_payload"
+			],
+			[
+				"start",
+				"start_notify_payload"
+			],
+			[
+				"GLOBAL_color",
+				"GLOBAL_colorArray"
+			],
+			[
+				"GLOBAL_car",
+				"GLOBAL_carCenterPosition"
+			],
+			[
+				"GLOBAL_ca",
+				"GLOBAL_carCenterPosition"
+			],
+			[
+				"GLOBAL_max",
+				"GLOBAL_cameraMaxTurnSpeed"
+			],
+			[
+				"GLOBAL_camera",
+				"GLOBAL_cameraTurnSpeed"
+			],
+			[
+				"trackBuffer",
+				"trackBufferIndex"
+			],
+			[
+				"vertex",
+				"vertex_light"
+			],
+			[
+				"GLOBAL_bot",
+				"GLOBAL_bottomLeft"
+			],
+			[
+				"GLOBAL_track",
+				"GLOBAL_trackTurnAngle"
+			],
+			[
+				"GLOBAL_curret",
+				"GLOBAL_currentTrackDistance"
+			],
+			[
+				"verte",
+				"vertex_light"
+			],
+			[
+				"ACTIVITI_",
+				"ACTIVITI_HOST"
+			],
+			[
+				"setA",
+				"setActivitiCredentials"
+			],
+			[
+				"Http",
+				"HTTPBasicAuth"
+			],
+			[
+				"setActivi",
+				"setActivityCredentials"
+			],
+			[
+				"x",
+				"x	Vector4.*"
+			],
+			[
+				"cloudina",
+				"cloudinaryImageUrl"
+			],
+			[
+				"cloudin",
+				"cloudinaryImageUrl"
+			],
+			[
+				"else",
+				"portal_email_subject"
+			],
+			[
+				"todo",
+				"todo	TODO snippet for javascript"
+			],
+			[
+				"note",
+				"note	NOTE snippet for javascript"
+			],
+			[
+				"lib",
+				"lib"
+			],
+			[
+				"HttpRespon",
+				"HttpResponseForbidden"
+			],
+			[
+				"importer",
+				"importerClassName"
+			],
+			[
+				"login",
+				"loginResponse"
+			],
+			[
+				"shootIn",
+				"shootIntervalTimer"
+			],
+			[
+				"Enemy",
+				"EnemySin"
+			],
+			[
+				"EnemySi",
+				"EnemySinShootOnMatchY"
+			],
+			[
+				"spawn",
+				"spawnEnemyWaveIntervalTimer"
+			],
+			[
+				"waveSpawn",
+				"waveSpawnIntervalTimer"
+			],
+			[
+				"waveSpaw",
+				"waveSpawnIntervalTimer"
+			],
+			[
+				"spawnEnem",
+				"spawnEnemyWaveInterval"
+			],
+			[
+				"spawnEme",
+				"spawnEnemyIntervalTimer"
+			],
+			[
+				"spawnEnemyInterval",
+				"spawnEnemyIntervalTimer"
+			],
+			[
+				"collidingWithS",
+				"collidingWithStairsFeet"
+			],
+			[
+				"playerBound",
+				"playerBoundingSensorBoxGround"
+			],
+			[
+				"gSprite",
+				"gSpriteGeometry"
+			],
+			[
+				"User",
+				"UserFabricSerializer"
+			],
+			[
+				"UserFabric",
+				"UserFabricDesigner"
+			],
+			[
+				"createAnimation",
+				"function createAnimation	(fn, duration, step_fn, finished_fn)"
+			],
+			[
+				"TRIANGLES",
+				"TRIANGLE_STRIP	GL.*"
+			],
+			[
+				"TRIANGE",
+				"TRIANGLE_STRIP	GL.*"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"GoTo",
+				"GoToCurrentQuiltBoundingBox"
+			],
+			[
+				"panning",
+				"panningFrictionCoefficient"
+			],
+			[
+				"Bretter",
+				"BretterSVGHelper"
+			],
+			[
+				"svgGeomet",
+				"svgGeometryData"
+			],
+			[
+				"global",
+				"globalParticles"
+			],
+			[
+				"freque",
+				"frequencyData"
+			],
+			[
+				"globalAudio",
+				"globalAudioElement"
+			],
+			[
+				"operat",
+				"operating_system"
+			],
+			[
+				"InitializePackage",
+				"InitializePackageBlockPolygonsAsync"
+			],
+			[
+				"pathData",
+				"pathDataStr"
+			],
+			[
+				"_cub",
+				"_cubicBezierCurveRelative"
+			],
+			[
+				"_ho",
+				"_horizontalLineToRelative"
+			],
+			[
+				"_ver",
+				"_verticalLineToRelative"
+			],
+			[
+				"Go",
+				"GoToBoundingBox"
+			],
+			[
+				"isS",
+				"isQuiltsterAdmin"
+			],
+			[
+				"prevous",
+				"previousTime"
+			],
+			[
+				"UserFabri",
+				"UserFabricSerializer"
+			],
+			[
+				"UserFa",
+				"UserFabric"
+			],
+			[
+				"item_image",
+				"item_image_query"
+			],
+			[
+				"Trianglu",
+				"TriangulatePolygon"
+			],
+			[
+				"Geom",
+				"GeometryToPolygon"
+			],
+			[
+				"GoToB",
+				"GoToBoundingBoxWithResize"
+			],
+			[
+				"slotHover",
+				"slotHoverColor"
+			],
+			[
+				"Linear",
+				"function Linear	(t, b, c, d)"
+			],
+			[
+				"AnimateToBoudn",
+				"function AnimateToBoundingBox	(bb, anim_time, anim_fn, padding)"
+			],
+			[
+				"quil",
+				"quilt_bb"
+			],
+			[
+				"shouldRend",
+				"shouldRenderLines"
+			],
+			[
+				"AnimateToBoundingBoxW",
+				"function AnimateToBoundingBoxWithResize	(bb, target_size, anim_time, anim_fn)"
+			],
+			[
+				"AnimateToBoundingB",
+				"function AnimateToBoundingBoxWithResize	(bb, target_size, anim_time, anim_fn)"
+			],
+			[
+				"TEXTURE",
+				"TEXTURE_2D"
+			],
+			[
+				"SetSlot",
+				"SetSlotSelected"
+			],
+			[
+				"ColorGroup",
+				"function ColorGroupForPoint	(pt, slot)"
+			],
+			[
+				"SlotFor",
+				"function SlotForPoint	(pt)"
+			],
+			[
+				"AnimateToB",
+				"function AnimateToBoundingBox	(bb, anim_time, anim_fn)"
+			],
+			[
+				"EaseInOut",
+				"EaseInOutCubic"
+			],
+			[
+				"UpdateSlot",
+				"UpdateSlotGroup"
+			],
+			[
+				"Initializep",
+				"InitializePackageBlockPolygons"
+			],
+			[
+				"Zoom",
+				"ZoomToSlot"
+			],
+			[
+				"Thumb",
+				"CreateThumbnail"
+			],
+			[
+				"a_v",
+				"a_v2_texture_position"
+			],
+			[
+				"layout_",
+				"layout_triangles"
+			],
+			[
+				"Trian",
+				"TriangulatePolygon"
+			],
+			[
+				"layout_po",
+				"layout_polygon_index"
+			],
+			[
+				"table_con",
+				"table_container"
+			],
+			[
+				"table_cont",
+				"table_container_offset"
+			],
+			[
+				"userFabrics",
+				"userFabrics_reduced"
+			],
+			[
+				"Project",
+				"ProjectSerializer"
+			],
+			[
+				"Quil",
+				"quilt_test"
+			],
+			[
+				"image_d",
+				"image_definitions_total"
+			],
+			[
+				"SlotGroup",
+				"SlotGroupSerializer"
+			],
+			[
+				"For",
+				"ForeignKey"
+			],
+			[
+				"PNG",
+				"SVG2PNG"
+			],
+			[
+				"PackageBlo",
+				"packageBlock"
+			],
+			[
+				"package_block_svg",
+				"package_block_svg_width"
+			],
+			[
+				"UserFabr",
+				"UserFabricColorGroup"
+			],
+			[
+				"fabric",
+				"fabric_query"
+			],
+			[
+				"package_block",
+				"package_block_query"
+			],
+			[
+				"packa",
+				"package_block"
+			],
+			[
+				"curre",
+				"current_color_group"
+			],
+			[
+				"UserFab",
+				"UserFabricSerializer"
+			],
+			[
+				"image_size",
+				"image_size_height"
+			],
+			[
+				"regex_get",
+				"regex_get_group_id"
+			],
+			[
+				"Colo",
+				"ColorGroupGeometrySerializer"
+			],
+			[
+				"upd",
+				"updated_by"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 271.0,
+		"last_filter": "spaces",
+		"selected_items":
+		[
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"au",
+				"Auto indent"
+			],
+			[
+				"a",
+				"Auto indent"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"in",
+				"Auto indent"
+			],
+			[
+				"format",
+				"Format Arguments"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"show",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"show ",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"al",
+				"Preferences: Alignment File Settings – User"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"lin",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"spac",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"pyton",
+				"Set Syntax: Python"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"todo",
+				"Snippet: TODO snippet for javascript"
+			],
+			[
+				"convert tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"convert to ta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preview in browser",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"set syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"syntaxfold",
+				"SyntaxFold: Open README"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"set syntax: html",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"ht",
+				"HTMLBeautify"
+			],
+			[
+				"conver tot a",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"conver to tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"set syntax java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"glsl",
+				"Set Syntax: GLSL"
+			],
+			[
+				"to spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"ta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sy html",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set syntax py",
+				"Set Syntax: Python"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"re.sub(\"def\", \"\", \"abcd\")",
+			"import re",
+			"re.sub(\"def\", \"\", \"abcd\")",
+			"asdf",
+			"cls",
+			"clear",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/brettbeers/projects/giantsource/Source-2/tmp/test.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/tmp/createImageFromCanvas.html",
+		"/Users/brettbeers/projects/giantsource/Source-2/tmp/error.html",
+		"/Users/brettbeers/projects/giantsource/Source-2/legacy_migrations/cms/migrations/0027_auto_20150729_1905.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/source/urls.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/cms/admin.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/core/views.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/source/local_settings.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/cms/models.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/cms/migrations/0099_client_groups.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/core/tasks.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/source/settings.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/cms/catalog/models.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/legacy_migrations/cms/migrations/0014_auto_20150616_1534.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/tmp/start_workflow.sh",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/source_storages/aws_user_storage.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/tmp/start_workflow.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/django-source/lib/python2.7/site-packages/suds/client.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/core/suds_helper.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/tmp/soaper.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/core/models.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/django-source/lib/python2.7/site-packages/suds/mx/literal.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/django-source/lib/python2.7/site-packages/suds/resolver.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/tmp/quiltster_user/quiltster_users.csv",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/templates/client/templates/templated_email/new_user_activation.email",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/templates/client/templates/templated_email/existing_user_activation.email",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/templates/client/templates/templated_email/new_consumer_registration.email",
+		"/Users/brettbeers/projects/giantsource/Source-2/requirements.txt",
+		"/Users/brettbeers/Downloads/auth.wsdl",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/apps/admin/__static/js/notification_admin.js",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/notifications/urls.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/notifications/notifications_functional.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/notifications/admin.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/notifications/tasks.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/notifications/models.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/notifications/views.py",
+		"/Users/brettbeers/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/C081CCF4-15E2-41C0-9474-11FB84A2CB73/VPN Keys (bbeers) 2/GaintSourceProd.ovpn",
+		"/Users/brettbeers/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/brettbeers/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/notifications/serializers.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/workflow/Gates.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/views.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/worker_tasks/create_media_proproxy.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/serializers.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/urls.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/tasks.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/activiti/activiti_task.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/worker_tasks/poll_vg_transcoder.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/admin.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/worker_tasks/auto_match.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/workflow/workflow.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/worker_tasks/simple_task.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/worker_tasks/simple_fail_task.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/worker_tasks/poll_manual_match.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/worker_tasks/create_media_title.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/worker_tasks/create_media_match.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/worker_tasks/create_manual_task.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/worker_tasks/create_media.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/activiti/activiti_task.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/notifications/migrations/0003_auto_20160223_0611.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/activiti_delegates/GSWorkerServiceDelegate.java",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/activiti_delegates/gs-worker-service-delegate.jar",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/notifications/fixtures/notification_delivery_data.json",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/notifications/migrations/0002_auto_20160222_1608.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/notifications/migrations/0001_initial.py",
+		"/Users/brettbeers/Library/Application Support/Sublime Text 3/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/brettbeers/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/Users/brettbeers/Library/Application Support/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/static/js/modules/gs_results2/js/gs_results.js",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/static/js/modules/gs_user.js",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/static/js/modules/gs_uploader/gs_uploader.js",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/source_client/views.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/test_data/1_titles.csv",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/models.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/source_client/urls.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/cms/views.py",
+		"/Users/brettbeers/Library/Application Support/Sublime Text 3/Packages/Terminal/Base File.sublime-settings",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/cms/catalog/views.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/core/management/commands/clear_catalog.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/core/management/commands/__init__.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/core/management/__init__.py",
+		"/Users/brettbeers/projects/personal/blog/blog.brettbeers.com/_posts/2016-1-4-existing-psql-table-constraints.markdown",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/test_data/10_titles.csv",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/test_data/100_titles.csv",
+		"/Users/brettbeers/projects/giantsource/kane-funimation/kane/kane/local_settings_example.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/django-source/lib/python2.7/site-packages/django/views/decorators/csrf.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/worker_tasks/transcode_proxy.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/worker_tasks/main_filematch.py",
+		"/Users/brettbeers/Downloads/77402d3b-8200-42c7-a85d-7ca354afe4da.csv",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/cms/tasks.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/source/management/commands/s3_storage_test.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/django-source/lib/python2.7/site-packages/storages/backends/s3boto.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/django-source/lib/python2.7/site-packages/django/core/files/storage.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/management/commands/begin_transcode_workflow.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/storages/__init__.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/apps/appsettings/__static/js/genre_admin.js",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/static/js/modules/gs_model_tab.js",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/storages/aws_user_storage.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/source/views.py",
+		"/Users/brettbeers/Downloads/celery.log",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/cms/urls.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/activiti/activiti_api.py",
+		"/Users/brettbeers/projects/giantsource/funimation-source/.local_settings.py",
+		"/Users/brettbeers/projects/giantsource/funimation-source/.funimation",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/source_client/tasks.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/test_data/50_titles.csv",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/management/commands/import_csv_transcode.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/test_data/test_csv_shallow.csv",
+		"/Users/brettbeers/Downloads/Celery_Logs_Dev.m",
+		"/Users/brettbeers/Downloads/Celery_Logs.m",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/source_client/.local_settings.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/static/client/.local_settings.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/test_data/test_csv.csv",
+		"/Users/brettbeers/projects/giantsource/Source-2/test_csv_shallow.csv",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/test_data/teste_csv.csv",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/management/commands/__init__.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/management/__init__.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/worker_tasks/rr_create_proxy_parents.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/source/management/commands/use_client.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/gs_messages/gs_message.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/workflow/settings.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/gs_messages/views.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/source_client/templates/templated_email/new_consumer_registration.email",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/static/js/modules/login.js",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/bpm/activiti_event_listener/GSEventListener.java",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/gs_messages/urls.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/gs_messages/models.py",
+		"/Users/brettbeers/projects/giantsource/Source-2/source/source_client/quiltster/models.py"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*",
+			"",
+			"test.svg",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"https://hooks",
+			"slackClient",
+			"class flag",
+			"flaggedcontent",
+			"model_name='client'",
+			"'client'",
+			"client_groups",
+			"client_group_id",
+			"flaggedcontent",
+			"catalog",
+			"cms.",
+			"nn",
+			"# curl",
+			"curl",
+			"http://schemas.xmlsoap.org/soap/encoding/",
+			"def self.resolver",
+			"MAGENTO",
+			"notification.content",
+			"site_url",
+			"client",
+			"import pdb",
+			"cleanChildren",
+			"\\n",
+			"^\\s",
+			"\\s+\\|",
+			"^(.*)\\n",
+			"\"",
+			"first_name",
+			"AuthService",
+			"system",
+			"generic",
+			"BBC",
+			")\n",
+			"NotificationDefinitionsView",
+			"notification_definition",
+			"fields",
+			"NotificationDeliveryMethod",
+			"key2",
+			"},\n",
+			"bpm.activiti",
+			"activiti",
+			"DO_DELAY",
+			"NotificationDelivery",
+			"CharField",
+			"INSTALLED_APPS",
+			"installed_apps",
+			"Modal",
+			"modal",
+			"s.",
+			"UserNotificationSubscriptionApi",
+			"userApproved",
+			"userLogin",
+			"userRegister",
+			"SOURCE_CLIENT",
+			"vglogtool_track",
+			"                    \n",
+			"process_notification_subscriptions.delay",
+			"                    \n",
+			"n",
+			"auto_index",
+			"Local Source Growl",
+			"email",
+			"UserNotificationSubscriptionApi",
+			"status",
+			"))\n",
+			"delay",
+			"funimation.localhost",
+			"Celery(",
+			"pushOneTaskToTranscode",
+			"filename",
+			"(ERROR)",
+			"'",
+			"print",
+			"avatars",
+			"nn",
+			"pdb",
+			"settings",
+			"item/images",
+			"STORAGE",
+			"boto3",
+			"image_upload",
+			"genreApi",
+			"AWS_ACCESS_KEY_ID",
+			"item/images",
+			"settings.",
+			"media_bucket",
+			"item/images",
+			"item/",
+			"items/",
+			"item/",
+			"source-img-bucket",
+			"uploader",
+			"uploadFileS3",
+			"BROKER_URL",
+			"CELERY",
+			"S3Gate(",
+			"job",
+			"job ",
+			"timezone",
+			"User",
+			"request.user",
+			"Media",
+			"jobId",
+			"created_by",
+			"file_path",
+			"program_id",
+			"external_item_id_var",
+			"job_id_var",
+			"program_id_var",
+			"activiti_host",
+			"notifications",
+			"self.notify",
+			"=",
+			"login",
+			"Nodify",
+			"http://",
+			"http://localhost",
+			"requests",
+			"sending to host",
+			"created_by",
+			"User",
+			"createQuad",
+			"GLOBAL_carScale",
+			"debug",
+			"GLOBAL_carPosition",
+			"_t_",
+			"_t",
+			"st"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			",\\n",
+			"",
+			",",
+			"<p>\\1</p>\\n",
+			"'",
+			"\"",
+			"()\n",
+			";\n",
+			"()\n",
+			");\n",
+			"1",
+			",",
+			"",
+			",",
+			"",
+			",",
+			",\n",
+			";\n",
+			"){\n",
+			"positionsHeight",
+			";\n",
+			"content",
+			"\\1 =  \\# \\2",
+			"\\1 = ",
+			"",
+			"\\b",
+			"requestAnimFrame = (function() {\n	return window.requestAnimationFrame ||\n		window.webkitRequestAnimationFrame ||\n		window.mozRequestAnimationFrame ||\n		window.oRequestAnimationFrame ||\n		window.msRequestAnimationFrame ||\n		function(/* function FrameRequestCallback */ callback, /* DOMElement Element */ element) {\n			window.setTimeout(callback, 1000/60);\n		};\n})();",
+			"35",
+			"});\n",
+			"]));\n",
+			"2",
+			"}\n",
+			"polygon",
+			"];\n",
+			"\"\\1\",",
+			"\\1,",
+			"gl\\.",
+			",\\n",
+			",",
+			"",
+			",",
+			"CurrentProject",
+			", ",
+			"",
+			" ",
+			",\\n",
+			",",
+			"",
+			",",
+			"pointSize",
+			",\\n",
+			"",
+			" ",
+			",",
+			"",
+			"_done: function(r) { console.log(\"ERROR\"); }",
+			"this",
+			"request.user.is_authenticated():",
+			"if not request.user.is_authenticated()",
+			",",
+			"",
+			" ",
+			",",
+			"\\1, \\2, \\3, \\4",
+			"'",
+			"')\n",
+			"\n        try:",
+			"[]);\n",
+			"console.",
+			"];\n",
+			"						\n",
+			"{\n",
+			"());",
+			"< ",
+			">\n",
+			"2000/svg",
+			"2000/svg\n",
+			">\n",
+			"points=\"\\1\"",
+			"{ type: \"polygon\", data: \"\\1\" },",
+			"\\1\"/>",
+			"\\1 \"/>",
+			"\\d \"/>",
+			"points=\"",
+			"\\1\"",
+			"points=\\\"",
+			"",
+			"\\},\\n",
+			"\\1\"",
+			"\"",
+			"{ \"type\": 1, \"block\": 3, \"color_group\": 6, \"data\": \"\\1\" }",
+			"{ \"type\": 1, \"block\": 3, \"color_group\": 5, \"data\": \"\\1\" }",
+			"{ \"type\": 1, \"block\": 3, \"color_group\": 4, \"data\": \"\\1\" }",
+			"{ \"type\": 1, \"block\": 3, \"color_group\": 3, \"data\": \"\\1\" }",
+			"{ \"type\": 1, \"block\": 3, \"color_group\": 2, \"data\": \"\\1\" }",
+			"{ \"type\": 1, \"block\": 3, \"color_group\": 1, \"data\": \"\\1\" }",
+			" ",
+			"\\1 ",
+			"",
+			",\\n",
+			"\\n,",
+			"{ \"type\": 1, \"block\": 2, \"color_group\": 6, \"data\": \"\\1\" }",
+			"{ \"type\": 1, \"block\": 2, \"color_group\": 5, \"data\": \"\\1\" }",
+			"{ \"type\": 1, \"block\": 2, \"color_group\": 4, \"data\": \"\\1\" }",
+			"{ \"type\": 1, \"block\": 2, \"color_group\": 3, \"data\": \"\\1\" }",
+			"{ \"type\": 1, \"block\": 2, \"color_group\": 2, \"data\": \"\\1\" }",
+			"{ \"type\": 1, \"block\": 2, \"color_group\": 1, \"data\": \"\\1\" }",
+			" ",
+			"\\1 ",
+			",",
+			"",
+			" ",
+			"{ \"type\": 1, \"block\": 1, \"color_group\": 5, \"data\": \"\\1\" }",
+			"{ \"type\": 1, \"block\": 1, \"color_group\": 4, \"data\": \"\\1\" }",
+			"{ \"type\": 1, \"block\": 1, \"color_group\": 3, \"data\": \"\\1\" }",
+			"{ \"type\": 1, \"block\": 1, \"color_group\": 2, \"data\": \"\\1\" }",
+			"{ \"type\": 1, \"block\": 1, \"color_group\": 1, \"data\": \"\\1\" }",
+			"\\1",
+			": \"\\1\"",
+			"{ \"colorGroup\": 1, \"type\": \"polygon\", \"points\": \\1 }, ",
+			"\\1 ",
+			"\\1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 220.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/project-build.sh.sublime-build",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"tasks",
+				"source/core/tasks.py"
+			],
+			[
+				"cmsmodels",
+				"source/cms/models.py"
+			],
+			[
+				"cmscatalogmodels",
+				"source/cms/catalog/models.py"
+			],
+			[
+				"cmsmod",
+				"source/cms/models.py"
+			],
+			[
+				"localset",
+				"source/source/local_settings.py"
+			],
+			[
+				"settings",
+				"source/source/settings.py"
+			],
+			[
+				"coreviews",
+				"source/core/views.py"
+			],
+			[
+				"sourceurls",
+				"source/source/urls.py"
+			],
+			[
+				"coremodel",
+				"source/core/models.py"
+			],
+			[
+				"loca",
+				"source/source/local_settings.py"
+			],
+			[
+				"resolver",
+				"django-source/lib/python2.7/site-packages/suds/resolver.py"
+			],
+			[
+				"literal",
+				"django-source/lib/python2.7/site-packages/suds/mx/literal.py"
+			],
+			[
+				"urls",
+				"source/source/urls.py"
+			],
+			[
+				"coremod",
+				"source/core/models.py"
+			],
+			[
+				"coretasks",
+				"source/core/tasks.py"
+			],
+			[
+				"sudsclient.py",
+				"django-source/lib/python2.7/site-packages/suds/client.py"
+			],
+			[
+				"require",
+				"requirements.txt"
+			],
+			[
+				"django-sourcesudsliter",
+				"django-source/lib/python2.7/site-packages/suds/mx/literal.py"
+			],
+			[
+				"soaper",
+				"tmp/soaper.py"
+			],
+			[
+				"url",
+				"source/source/urls.py"
+			],
+			[
+				"coreview",
+				"source/core/views.py"
+			],
+			[
+				"coremode",
+				"source/core/models.py"
+			],
+			[
+				"sett",
+				"source/source/settings.py"
+			],
+			[
+				"task",
+				"source/core/tasks.py"
+			],
+			[
+				"gates",
+				"source/workflow/Gates.py"
+			],
+			[
+				"create",
+				"source/bpm/worker_tasks/create_media_proproxy.py"
+			],
+			[
+				"setings",
+				"source/source/settings.py"
+			],
+			[
+				"activiti_task",
+				"source/activiti/activiti_task.py"
+			],
+			[
+				"poll_vg",
+				"source/bpm/worker_tasks/poll_vg_transcoder.py"
+			],
+			[
+				"local",
+				"source/source/local_settings.py"
+			],
+			[
+				"work",
+				"source/workflow/workflow.py"
+			],
+			[
+				"workflo",
+				"source/workflow/workflow.py"
+			],
+			[
+				"bpmviews",
+				"source/bpm/views.py"
+			],
+			[
+				"bpmview",
+				"source/bpm/views.py"
+			],
+			[
+				"gs_results",
+				"source/static/js/modules/gs_results2/js/gs_results.js"
+			],
+			[
+				"source_clientview",
+				"source/source_client/views.py"
+			],
+			[
+				"use_clie",
+				"source/source/management/commands/use_client.py"
+			],
+			[
+				"gs_up",
+				"source/static/js/modules/gs_uploader/gs_uploader.js"
+			],
+			[
+				"gs_us",
+				"source/static/js/modules/gs_user.js"
+			],
+			[
+				"notificationsview",
+				"source/notifications/views.py"
+			],
+			[
+				"cmsmodel",
+				"source/cms/models.py"
+			],
+			[
+				"settings.",
+				"source/source/settings.py"
+			],
+			[
+				"req",
+				"requirements.txt"
+			],
+			[
+				"source_clienturl",
+				"source_client/urls.py"
+			],
+			[
+				"cmsview",
+				"cms/views.py"
+			],
+			[
+				"coretask",
+				"core/tasks.py"
+			],
+			[
+				"coremodels",
+				"source/core/models.py"
+			],
+			[
+				"catalogviews",
+				"source/cms/catalog/views.py"
+			],
+			[
+				"set",
+				"source/source/settings.py"
+			],
+			[
+				"gat",
+				"workflow/Gates.py"
+			],
+			[
+				"gs_me",
+				"gs_messages/gs_message.py"
+			],
+			[
+				"activi",
+				"bpm/activiti/activiti_task.py"
+			],
+			[
+				"setting",
+				"kane/kane/settings.py"
+			],
+			[
+				"view",
+				"kane/kane/views.py"
+			],
+			[
+				"ga",
+				"workflow/Gates.py"
+			],
+			[
+				"poll",
+				"bpm/worker_tasks/poll_vg_transcoder.py"
+			],
+			[
+				"workf.",
+				"workflow/workflow.py"
+			],
+			[
+				"settin",
+				"source/settings.py"
+			],
+			[
+				"gate",
+				"workflow/Gates.py"
+			],
+			[
+				"bpmvi",
+				"bpm/views.py"
+			],
+			[
+				"bpmurls",
+				"bpm/urls.py"
+			],
+			[
+				"activiti",
+				"source/bpm/activiti/activiti_api.py"
+			],
+			[
+				"activit",
+				"source/bpm/activiti/activiti_task.py"
+			],
+			[
+				"models",
+				"source/cms/models.py"
+			],
+			[
+				"activiti_tas",
+				"source/bpm/activiti/activiti_task.py"
+			],
+			[
+				"views",
+				"source/source_client/views.py"
+			],
+			[
+				"sourcecoreviews",
+				"source/core/views.py"
+			],
+			[
+				"model",
+				"source/cms/models.py"
+			],
+			[
+				"loc",
+				"source/source/local_settings.py"
+			],
+			[
+				"",
+				"source/source/management/commands/s3_storage_test.py"
+			],
+			[
+				"cmsurls",
+				"source/cms/urls.py"
+			],
+			[
+				"cmsviews",
+				"source/cms/views.py"
+			],
+			[
+				"cmsmodesl",
+				"source/cms/models.py"
+			],
+			[
+				"local_settings",
+				"source/source/local_settings.py"
+			],
+			[
+				"model_ta",
+				"source/static/js/modules/gs_model_tab.js"
+			],
+			[
+				"import_cs",
+				"source/bpm/management/commands/import_csv_transcode.py"
+			],
+			[
+				"requi",
+				"requirements.txt"
+			],
+			[
+				".local",
+				"source/static/client/.local_settings.py"
+			],
+			[
+				"automa",
+				"source/bpm/worker_tasks/auto_match.py"
+			],
+			[
+				"workflow",
+				"source/workflow/workflow.py"
+			],
+			[
+				"trans",
+				"source/bpm/worker_tasks/transcode_proxy.py"
+			],
+			[
+				"user.js",
+				"source/static/js/modules/gs_user.js"
+			],
+			[
+				"login.js",
+				"source/static/js/modules/login.js"
+			],
+			[
+				"autom",
+				"source/bpm/worker_tasks/auto_match.py"
+			],
+			[
+				"tasks.py",
+				"source/bpm/tasks.py"
+			],
+			[
+				"gseven",
+				"source/bpm/activiti_event_listener/GSEventListener.java"
+			],
+			[
+				"workflow/setting",
+				"source/workflow/settings.py"
+			],
+			[
+				"worlf",
+				"source/workflow/workflow.py"
+			],
+			[
+				"gatye",
+				"source/workflow/Gates.py"
+			],
+			[
+				"source_clientmod",
+				"source/source_client/quiltster/models.py"
+			],
+			[
+				"quiltstermodels",
+				"source/source_client/quiltster/models.py"
+			],
+			[
+				"color.f",
+				"shaders/colors.fs"
+			],
+			[
+				"read",
+				"readme.md"
+			],
+			[
+				"app",
+				"js/app.js"
+			],
+			[
+				"key",
+				"js/util/keyboard.js"
+			],
+			[
+				"shaders",
+				"shaders/colors.vs"
+			],
+			[
+				"main",
+				"js/main.js"
+			],
+			[
+				"dis",
+				"js/display.js"
+			],
+			[
+				"array",
+				"js/util/array_ext.js"
+			],
+			[
+				"displ",
+				"js/display.js"
+			],
+			[
+				"display",
+				"js/display.js"
+			],
+			[
+				"ap",
+				"js/app.js"
+			],
+			[
+				"disp",
+				"js/display.js"
+			],
+			[
+				"user_",
+				"source/static/apps/admin/__static/js/user_admin.js"
+			],
+			[
+				"source_clientapp.js",
+				"source/source_client/apps/quiltster/__static/js/app.js"
+			],
+			[
+				"quiltsterapp.js",
+				"source/source_client/apps/quiltster/__static/js/app.js"
+			],
+			[
+				"source_clientviews",
+				"source/source_client/views.py"
+			],
+			[
+				"quilmodles",
+				"source/source_client/quiltster/models.py"
+			],
+			[
+				"layout",
+				"django-source/lib/python2.7/site-packages/crispy_forms/layout.py"
+			],
+			[
+				"quiltterserializer",
+				"source/templates/client/quiltster/serializers.py"
+			],
+			[
+				"quigl",
+				"source/source_client/apps/quiltster/__static/js/quigle.js"
+			],
+			[
+				"user_admin",
+				"source/apps/admin/__static/js/user_admin.js"
+			],
+			[
+				"base.html",
+				"source/templates/base.html"
+			],
+			[
+				"gs_user",
+				"source/static/js/modules/gs_user.js"
+			],
+			[
+				"userconnect",
+				"node_modules/grunt/node_modules/grunt-legacy-log/node_modules/underscore.string/libpeerconnection.log"
+			],
+			[
+				"node-app",
+				"source/static/js/node-app.js"
+			],
+			[
+				"init.js",
+				"source/static/js/modules/init.js"
+			],
+			[
+				"chracterstatemov",
+				"js/app/classes/states/character_state_moving.js"
+			],
+			[
+				"hand",
+				"js/app/classes/handler.js"
+			],
+			[
+				"characters",
+				"js/app/classes/states/character_state.js"
+			],
+			[
+				"character",
+				"js/app/classes/entities/character.js"
+			],
+			[
+				"character_st",
+				"js/app/classes/states/character_state.js"
+			],
+			[
+				"tile",
+				"js/app/classes/entities/tile.js"
+			],
+			[
+				"mouse",
+				"js/app/classes/mouse_manager.js"
+			],
+			[
+				"laun",
+				"js/app/classes/launcher.js"
+			],
+			[
+				"game",
+				"js/app/classes/game.js"
+			],
+			[
+				"handl",
+				"js/app/classes/handler.js"
+			],
+			[
+				"handler",
+				"js/app/classes/handler.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 871.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 350.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
